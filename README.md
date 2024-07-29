@@ -1,4 +1,5 @@
 Project Title: Sales Data Analysis and Visualization
+
 Project Overview:
 The Sales Data Analysis and Visualization project aims to provide a comprehensive analysis of sales data to uncover insights and trends that can inform business decisions. By leveraging powerful data analysis and visualization tools such as Pandas, NumPy, Matplotlib, and Seaborn, this project will clean, process, and analyze the sales data to generate meaningful insights and actionable recommendations.
 
